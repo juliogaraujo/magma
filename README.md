@@ -1,5 +1,5 @@
 ## Note
-This README is out of date because it was writed to release 1.1.
+This README is out of date because it was written to release 1.1.
 
 
 # How-to Deploy Orc8r/NMS AWS deployment
